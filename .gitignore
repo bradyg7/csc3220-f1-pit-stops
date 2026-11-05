@@ -1,0 +1,22 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+.env
+.env.*
+!.env.example
+kaggle.json
+*.zip
+.DS_Store
+Thumbs.db
+
+# Datasets are downloaded by each teammate, not committed publicly
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Local dependency caches, if renv is adopted
+renv/library/
+renv/staging/
