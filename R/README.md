@@ -26,4 +26,16 @@ Adapt names as the team sees fit. Every individual must code, test, and document
 - Command order: TODO (list actual existing scripts, not aspirational commands).
 - Data location: `data/raw/` (download separately, ignored by Git).
 
-**Current status:** setup and coordination scaffold only — no scripts or experiment results exist yet.
+## Deliverable 1 learning workflow (available now)
+
+The repository includes a **guided R learning workbook** at [`R/00_eda_learning_workbook.R`](00_eda_learning_workbook.R) and a student-completed [EDA decisions worksheet](EDA_DECISIONS_WORKSHEET.md). These cover six gates: inventory, anomaly inspection, plots, hypothesis exploration, feature leakage, and decision logging. They are not completed deliverables or model code.
+
+From the repository root in RStudio, after downloading the official Kaggle files into `data/raw/`, run the tutorial interactively, one section at a time, or source all sections:
+
+```r
+source("R/00_eda_learning_workbook.R", echo = TRUE)
+```
+
+Base R is sufficient for the included demonstrations. Complete the marked `STUDENT TODO` sections with your own code and the worksheet in your own words. Then turn your own supported findings into the required student-authored Section 2. Do **not** submit the workbook or worksheet alone as the report.
+
+**Current status:** project scaffold and an instructional R workbook exist; student-authored EDA findings, final selected plots, model code, and results remain to be completed.
