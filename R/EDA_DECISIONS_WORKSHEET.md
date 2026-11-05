@@ -39,6 +39,16 @@ Every figure in the final report needs a caption and labeled axes.
 
 Note: descriptive associations do not prove causation. Small groups need caution.
 
+### Hypothesis 1 — Tire life and next-lap pit stops (student's interpretation, edited for clarity)
+
+Based on the observed data, as the number of completed laps on a set of tires increases, the next-lap pit-stop rate also increases. For observations with a tire life of 1–5 laps, the pit-stop rate is 5.10%, compared with 48.31% for observations with a tire life of 41 or more laps—a difference of **43.21 percentage points**.
+
+This consistent increase suggests a positive association between tire life and next-lap pit-stop rate. However, it cannot be concluded that increased tire life alone causes the higher rate, because other factors, such as tire compound and differences in how quickly tires wear down, may also influence pit-stop decisions.
+
+- **Comparison:** 1–5 tire-life laps (90,638 observations; 5.10% positive) vs. 41+ laps (6,661 observations; 48.31% positive).
+- **Editing record:** Revised from the student's original paragraph for grammar, percentage-point accuracy, and clarity about comparing grouped observations. The student must check and approve this wording before incorporating it into their own report.
+- **Hypothesis 2:** Race-stage interpretation remains student-authored and pending.
+
 ## Gate 5 — Feature-availability and leakage review
 For each variable, decide whether it is known **before the next lap**. The team must verify meanings from sources.
 
