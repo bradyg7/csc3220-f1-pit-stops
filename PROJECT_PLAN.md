@@ -2,6 +2,10 @@
 
 This file tracks the **repository implementation workflow**. The detailed private coordination plan is in [Notion](https://app.notion.com/p/40f67a3c8404816fb844e8e320c8b3d9). Academic deadlines below come from *CSC 3220 Final Team Project Instructions — Fall 2026*; intermediate dates are **team planning suggestions**, not instructor deadlines.
 
+## Working arrangement
+
+**November 5, 2026:** Use one Windows computer for initial dataset acquisition, local RStudio setup, and first student-authored data audit. Teammate GitHub invitations and handoffs are deferred until teammates are ready. Keep all durable code and project instructions in this repository so others can reproduce the work later. **Dataset acquisition and actual audit have not yet been confirmed complete.**
+
 ## Course deadlines
 
 | Date, 2026 | Required submission |
